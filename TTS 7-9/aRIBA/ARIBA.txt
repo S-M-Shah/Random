@@ -1,0 +1,12 @@
+Students
+
+
+
+2102G1	Sir Syed Ali Imran	ARIBA FATIMA		Semester-4	20	5
+2202G1	Sir Amir Hamza	FIZA ARIF		Semester-2	17	4
+2210G1 (2.0)	Miss Jaweria Ejaz	ARIBA FATIMA		Semester-1	10	2
+2209G2 (2.0)	Sir Usama Riaz	ARIBA FATIMA		Semester-1	14	3
+2210G4 (2.0)	Miss Bakhtawar Siraj	ARIBA FATIMA		Semester-1	14	3
+
+
+
